@@ -1,2 +1,1 @@
-# gabut_pt_2
-project gabut 
+just a project I worked on when I couldn't sleep
